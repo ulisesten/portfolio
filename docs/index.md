@@ -3,7 +3,7 @@
 ## Android
   - [App](https://play.google.com/store/apps/details?id=com.neki.mlvalles)
 
-  ![Home screen](https://github.com/ulisesten/portfolio/blob/main/assets/Screenshot_20220512-132913.jpg "Home screen")
+  [![Home screen](https://github.com/ulisesten/portfolio/blob/main/assets/Screenshot_20220512-132913.jpg "Home screen")](https://github.com/ulisesten/portfolio)
   ![Vista de producto](https://github.com/ulisesten/portfolio/blob/main/assets/Screenshot_20220512-133037.jpg "Vista de producto")
   ![Chat con el vendedor](https://github.com/ulisesten/portfolio/blob/main/assets/Screenshot_20220512-133214.jpg "Chat con el vendedor")
   ![Elección de categoría para nuevo producto](https://github.com/ulisesten/portfolio/blob/main/assets/Screenshot_20220512-133244.jpg "Elección de categoría para nuevo producto")

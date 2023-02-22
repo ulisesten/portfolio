@@ -9,7 +9,11 @@
 - [The code API(Repo)](https://github.com/ulisesten/the-code-backend)
 
 ## Android
-  - [App](https://play.google.com/store/apps/details?id=com.neki.mlvalles)
+  - [App](https://github.com/ulisesten/classify-movies)
+
+  
+  ![Alt text](/assets/movies1.png)  ![Alt text](/assets/movies2.png)
+  
 
 ### Screenshots
   - [Home screen](https://github.com/ulisesten/portfolio/blob/main/assets/Screenshot_20220512-132913.jpg "Home screen")

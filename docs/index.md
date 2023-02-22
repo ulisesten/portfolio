@@ -12,7 +12,7 @@
   - [App](https://github.com/ulisesten/classify-movies)
 
 
-  ![Vista principal](https://github.com/ulisesten/portfolio/blob/main/assets/movies1.png)  ![Vista de detalle](https://github.com/ulisesten/portfolio/blob/main/assets/movies2.png)
+  ![Vista principal](https://raw.githubusercontent.com/ulisesten/portfolio/main/assets/movies1.png)  ![Vista de detalle](https://raw.githubusercontent.com/ulisesten/portfolio/main/assets/movies2.png)
   
 
 ### Screenshots
